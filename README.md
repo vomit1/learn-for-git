@@ -1,2 +1,1 @@
-# learn-for-git
-تمرین ساده و مبتدی 
+learning git command 
