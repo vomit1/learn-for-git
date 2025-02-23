@@ -1,2 +1,2 @@
 # learn-for-git
-just for practice 
+تمرین ساده و مبتدی 
